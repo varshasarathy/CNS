@@ -27,7 +27,7 @@ becomes C. To change a message back, each letter is replaced by the one three be
 ### STEP-5: Display the cipher text obtained above.
 
 
-PROGRAM :-
+## PROGRAM :-
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -78,10 +78,10 @@ int main() {
 
 
 
-OUTPUT :-
+## OUTPUT :-
 ![image](https://github.com/user-attachments/assets/0f4dbf5a-fdaa-416e-96ba-9d56e30f7566)
 
-RESULT:
+## RESULT:
 
 The program is executed successfully
 
